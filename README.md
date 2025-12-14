@@ -117,6 +117,10 @@ Contributions are welcome. Please open issues or PRs against the upstream reposi
 
 e-mail address：s-wyw25@bjzgca.edu.cn
 
+## Acknowledgements
+Thanks to the open robotics community:
+AlohaMini · ALOHA · SO-ARM101 · LeRobot 
+
 ## Future
 
 I'll keep exploring VLA algorithms on AlohaMini and will continuously updates. Your stars are what keep this project moving forward.
